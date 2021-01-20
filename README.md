@@ -1,71 +1,35 @@
-# [Bhavyansh's Compute Crib](https://startbootstrap.com/template-overviews/freelancer/)
+# Bhavyansh's Compute Crib
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+This is a Github Pages website that hosts the achievements of Bhavyansh Mishra over four years of his Bachelor's Degree in Computer Engineering at University of West Florida
 
-## Preview
+## Projects
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+### [Medium](https://github.com/BhavyanshM/Medium/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+MP3 player with animations to select sound tracks and play them. Users can add their own sound tracks and listen to them. Uses Object-Oriented approach behind the scenes using JavaFX to generate the Graphical User Interface.
 
-## Status
+### [Unmanned System Algorithms](https://github.com/BhavyanshM/)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
+Obstacle Avoidance and Path-planning algorithms implemented for the UWF Team (Air Argos) for the AUVSI-SUAS 2018 Competition using JavaFX. The project contains a simulator built using Java. This tool simulates both moving and static obstacles as well as finds feasible paths around them in real-time. It then injects the real-time waypoint information into the Ground Control Station used to command the UAV. 
 
-## Download and Installation
+### [Microservices Builder Tool](https://github.com/BhavyanshM/Microservice-Builder/)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
-* Install via npm: `npm i startbootstrap-freelancer`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+A tool to generate Microservices Architecture Infrastructure-as-Code files using a Graphical tool built using JavaFX and JFoenix. It allows the user to generate Dockerfiles, Docker-Compose configuration file, NGINX Reverse Proxy configuration file, and scripts for automatic setup of MongoDB database containers, all with a few simple clicks.
 
-## Usage
+## Research
 
-### Basic Usage
+Research Publication - A Pilot Study on Introducing Continuous Integration and Delivery into Undergraduate Software Engineering Courses - Conference on Software Engineering Education and Training (November 2017)
+Research Publication - CDEP: Continuous Delivery Educational Pipeline –ACM South East Conference (March 2017)
+Research Publication - Security for DevOps - International Journal of Software Engineering and Applications (November 2016) 
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Advanced Usage
+## Competitions
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+### [ACM-ICPC](https://github.com/BhavyanshM/CompetitiveProgramming/)
 
-#### Gulp Tasks
+Solutions to over 50 problems from UVa Online Judge and implementaion of standard Data Structures and Algorithms used in Competitive Programming. Reference book used was Competitive Programming 3 by Steven Halim. All of the source code was written in Java 8.
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
+### [Cyberthon](http://news.uwf.edu/uwf-cyber-club-places-first-in-cyberthon-2017/) 
 
-## Bugs and Issues
+First Place Winner at CyberThon 2017, the third annual cybersecurity challenge event hosted by the AFCEA Blue Angels Pensacola at Naval Air Station Pensacola National Flight Academy.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
