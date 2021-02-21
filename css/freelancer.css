@@ -347,6 +347,10 @@ a:focus, a:hover, a:active {
   background-color: #18BC9C !important;
 }
 
+.bg-brown {
+  background-color: #3E2723 !important;
+}
+
 .bg-secondary {
   background-color: #2C3E50 !important;
 }
