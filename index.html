@@ -12,7 +12,19 @@
 
       gtag('config', 'UA-125466497-1');
     </script>
-  
+
+
+
+
+    <link rel="shortcut icon" href="WebGL_Unity/Build_WebGL/TemplateData/favicon.ico">
+    <link rel="stylesheet" href="WebGL_Unity/Build_WebGL/TemplateData/style.css">
+    <script src="WebGL_Unity/Build_WebGL/TemplateData/UnityProgress.js"></script>
+    <script src="WebGL_Unity/Build_WebGL/Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "WebGL_Unity/Build_WebGL/Build/Build_WebGL.json", {onProgress: UnityProgress});
+    </script>
+
+
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -380,6 +392,25 @@
             <h3><a target="_self" href="http://computecrib.com/Deep-Learning" class="text-secondary" target="_blank">The Deep Learning Compendium</a></h3>
               <p class="text-secondary">An attempt to a comprehensive survey of currently existing Deep Neural Network architectures. Check out this website for collection of Deep Neural Networks.</p><br>
             
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-primary" id="game-development">
+      <div class="container">
+        <h2 class="text-left text-white mb-0">Game Development</h2>
+        <hr class="mb-5">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+                                      <div class="webgl-content">
+                                        <div id="unityContainer" style="width: 960px; height: 600px"></div>
+                                        <div class="footer">
+                                          <div class="webgl-logo"></div>
+                                          <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+                                          <div class="title">Dark Platformer</div>
+                                        </div>
+                                      </div>
           </div>
         </div>
       </div>
