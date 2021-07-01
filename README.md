@@ -29,7 +29,7 @@ Research Publication - Security for DevOps - International Journal of Software E
 
 Solutions to over 50 problems from UVa Online Judge and implementaion of standard Data Structures and Algorithms used in Competitive Programming. Reference book used was Competitive Programming 3 by Steven Halim. All of the source code was written in Java 8.
 
-### [Cyberthon](http://news.uwf.edu/uwf-cyber-club-places-first-in-cyberthon-2017/) 
+### [Cyberthon](https://news.uwf.edu/uwf-cyber-club-places-first-in-cyberthon-2017/) 
 
 First Place Winner at CyberThon 2017, the third annual cybersecurity challenge event hosted by the AFCEA Blue Angels Pensacola at Naval Air Station Pensacola National Flight Academy.
 
